@@ -1,0 +1,32 @@
+# IDE and Editor files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Database files (should not be committed)
+*.sql.backup
+*.dump
+mysql-data/
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
